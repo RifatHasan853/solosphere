@@ -12,7 +12,7 @@ const corsOptions = {
     origin: [
       'http://localhost:5173',
       'http://localhost:5174',
-      'https://solosphere-a8d1c.web.app',
+      'https://solosphere-firebase-69010.web.app',
      
     ],
     credentials: true,
